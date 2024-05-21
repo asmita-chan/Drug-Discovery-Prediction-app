@@ -1,0 +1,17 @@
+CC(C)c1ccc(NC(=O)CSc2nccc(-c3csc(COc4ccccc4Cl)n3)n2)cc1 CHEMBL207381
+Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1CCCC2(C)C CHEMBL187266
+COc1ccc(-c2ccnc(SCC(=O)Nc3ccc(C(C)C)cc3)n2)cc1 CHEMBL210437
+O=C1C(=O)N(Cc2cc3ccccc3s2)c2c(Br)cccc21 CHEMBL365134
+O=C1C(=O)N(Cc2ccc3ccccc3c2)c2ccc(I)cc21 CHEMBL383725
+O=C1/C(=C/c2c[nH]cn2)CCc2ccccc21 CHEMBL168434
+COc1ccc2c(c1)C1C(CC2)C1c1ccncc1 CHEMBL294361
+CCC1(c2ccc(N)cc2)CCC(=O)NC1=O CHEMBL488
+C/C=C/C[C@@H](C)[C@@H](O)[C@H]1C(=O)N[C@@H](CC)C(=O)N(C)CC(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)N1C CHEMBL160
+C/C=C/C[C@@H](C)[C@@H](O)[C@H]1C(=O)N[C@@H](CC)C(=O)N(C)[C@H](C)C(=O)N(CC)[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)N1C CHEMBL1651956
+O=C(Oc1cncc(Cl)c1)c1cc2ccccc2[nH]1 CHEMBL225515
+O=C(Oc1cncc(Cl)c1)c1cc2ccccc2s1 CHEMBL222893
+
+
+
+
+
